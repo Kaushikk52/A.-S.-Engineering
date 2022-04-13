@@ -1546,14 +1546,14 @@ article, div, footer, h1, h2, h3, header, nav, ol, p, ul {
   width: 80vmin;
   border-radius: 5vmin;
   overflow: hidden;
-  background-image: url(https://5.imimg.com/data5/SELLER/Default/2020/8/MG/RH/LW/6637634/milk-mawa-machine-250x250.jpg);
+  background-image: url(http://127.0.0.1:5500/assets/img/portfolio/Hotel%201.jpeg);
   background-size: 80vmin 80vmin;
 }
 .example > .block {
   position: absolute;
   height: calc(16vmin + 2px);
   width: calc(16vmin + 2px);
-  background-image: url(https://5.imimg.com/data5/SELLER/Default/2021/3/QU/WM/YY/6637634/bun-divider-and-rounder-250x250.jpg);
+  background-image: url(http://127.0.0.1:5500/assets/img/portfolio/Sweet%203.jpg);
   background-size: 81vmin 81vmin;
   transform: rotate(90deg);
   opacity: 0;
